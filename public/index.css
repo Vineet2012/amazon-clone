@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+body {
+  background-color: gainsboro;
+  width: 100%;
+  height: 100vh;
+}
+.nav--logo {
+  background-color: black;
+  height: 60px;
+}
+.nav--head {
+  color: #d3d3d3;
+  font-family: Trebuchet MS;
+}
+.nav--sel {
+  border-radius: 5px 0px 0px 5px;
+}
+.nav--butt {
+  border-radius: 0px 5px 5px 0px;
+}
+.nav--sec {
+  background-color: #232f3e;
+  height: 40px;
+}
+.nav--last {
+  text-decoration: line-through;
+}
